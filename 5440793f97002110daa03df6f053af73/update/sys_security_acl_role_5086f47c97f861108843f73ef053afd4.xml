@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-01 06:46:03</sys_created_on>
+        <sys_id>5086f47c97f861108843f73ef053afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_vj_new_app_0_my_new_table.activity_admin</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_security_acl display_value="x_snc_vj_new_app_0_my_new_table">4886f47c97f861108843f73ef053afa5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5086f47c97f861108843f73ef053afd4</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-01 06:46:03</sys_updated_on>
+        <sys_user_role display_value="activity_admin" name="activity_admin">b453c203c3213100ad408039dfba8fb0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
