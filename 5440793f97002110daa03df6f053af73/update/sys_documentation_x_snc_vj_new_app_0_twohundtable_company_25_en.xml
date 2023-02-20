@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="company_25" label="Company 25" language="en" table="x_snc_vj_new_app_0_twohundtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>company_25</element>
+            <help/>
+            <hint/>
+            <label>Company 25</label>
+            <language>en</language>
+            <name>x_snc_vj_new_app_0_twohundtable</name>
+            <plural>Company 25s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 08:20:35</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Company 25</sys_name>
+            <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_vj_new_app_0_twohundtable_company_25_en</sys_update_name>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 08:20:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
