@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Vj New App 0 1676882408905</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_vj_new_app_0_1676882408905</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-20 08:40:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92d64b32974961108843f73ef053afb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vj New App 0 1676882408905</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_update_name>sys_app_module_92d64b32974961108843f73ef053afb7</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-20 08:40:14</sys_updated_on>
+        <timeline_page/>
+        <title>Vj New App 0 1676882408905</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="vj new app 123">5440793f97002110daa03df6f053af73</application>
+        <file_path/>
+        <instance_id>e6c5b483db87c1500b9d21c405961936</instance_id>
+        <instance_name>empvkgolla2</instance_name>
+        <name>sys_app_module_92d64b32974961108843f73ef053afb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Vj New App 0 1676882408905</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_vj_new_app_0_1676882408905</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>vijaykanth.golla@snc</sys_created_by><sys_created_on>2023-02-20 08:40:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>92d64b32974961108843f73ef053afb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vj New App 0 1676882408905</sys_name><sys_overrides/><sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package><sys_policy/><sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope><sys_update_name>sys_app_module_92d64b32974961108843f73ef053afb7</sys_update_name><sys_updated_by>vijaykanth.golla@snc</sys_updated_by><sys_updated_on>2023-02-20 08:40:14</sys_updated_on><timeline_page/><title>Vj New App 0 1676882408905</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2061934192</payload_hash>
+        <record_name>Vj New App 0 1676882408905</record_name>
+        <reverted_from/>
+        <source>1da75006974ded108843f73ef053af4c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-20 08:40:14</sys_created_on>
+        <sys_id>52d64b32974961108843f73ef053afb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1866dfb0be60000001</sys_recorded_at>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-20 08:40:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9ad64b329e49611083ccc7cb45bba6b8</update_guid>
+        <update_guid_history>9ad64b329e49611083ccc7cb45bba6b8:2061934192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vj New App 0 1676882408905">98170b72974961108843f73ef053af1d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-20 08:41:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>21e24b57c79c4cc4bf94b1bc5f949261</sys_id>
+        <sys_metadata>92d64b32974961108843f73ef053afb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vj New App 0 1676882408905</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_scope_delete display_value="">3f99a80b26f147f8921efad2ea3e6604</sys_scope_delete>
+        <sys_update_name>sys_app_module_92d64b32974961108843f73ef053afb7</sys_update_name>
+        <sys_update_version display_value="sys_app_module_92d64b32974961108843f73ef053afb7">52d64b32974961108843f73ef053afb9</sys_update_version>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-20 08:41:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
