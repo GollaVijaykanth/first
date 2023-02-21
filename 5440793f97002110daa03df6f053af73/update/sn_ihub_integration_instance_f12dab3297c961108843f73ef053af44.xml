@@ -4,19 +4,19 @@
         <integration_table>sys_data_source</integration_table>
         <integration_type>data_import</integration_type>
         <internal_name/>
-        <name>teats dimports</name>
+        <name>teats dimport</name>
         <record_id>bd2dab3297c961108843f73ef053af44</record_id>
         <sys_class_name>sn_ihub_integration_instance</sys_class_name>
         <sys_created_by>vijaykanth.golla@snc</sys_created_by>
         <sys_created_on>2023-02-20 11:27:36</sys_created_on>
         <sys_id>f12dab3297c961108843f73ef053af44</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>teats dimports</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>teats dimport</sys_name>
         <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
         <sys_policy/>
         <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
         <sys_update_name>sn_ihub_integration_instance_f12dab3297c961108843f73ef053af44</sys_update_name>
         <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
-        <sys_updated_on>2023-02-21 06:26:00</sys_updated_on>
+        <sys_updated_on>2023-02-21 07:30:21</sys_updated_on>
     </sn_ihub_integration_instance>
 </record_update>
