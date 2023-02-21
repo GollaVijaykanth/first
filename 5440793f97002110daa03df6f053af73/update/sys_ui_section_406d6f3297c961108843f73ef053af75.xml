@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="406d6f3297c961108843f73ef053af75" sys_domain="global" table="x_snc_vj_new_app_0_mhbkj_hn" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>cc6d6f3297c961108843f73ef053af77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>446d6f3297c961108843f73ef053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>created</element>
+            <position>2</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>c46d6f3297c961108843f73ef053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>updated</element>
+            <position>3</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>486d6f3297c961108843f73ef053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>4</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>c86d6f3297c961108843f73ef053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>4c6d6f3297c961108843f73ef053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_id</element>
+            <position>6</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>cc6d6f3297c961108843f73ef053af78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>406d6f3297c961108843f73ef053af79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>locked_out</element>
+            <position>8</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>c06d6f3297c961108843f73ef053af79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_type</element>
+            <position>9</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>446d6f3297c961108843f73ef053af79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_id>c46d6f3297c961108843f73ef053af79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vj_new_app_0_mhbkj_hn" sys_domain="global" view="Default view">406d6f3297c961108843f73ef053af75</sys_ui_section>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_vj_new_app_0_mhbkj_hn</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+            <sys_created_on>2023-02-20 11:28:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>406d6f3297c961108843f73ef053af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_vj_new_app_0_mhbkj_hn</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+            <sys_update_name>sys_ui_section_406d6f3297c961108843f73ef053af75</sys_update_name>
+            <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+            <sys_updated_on>2023-02-20 11:28:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

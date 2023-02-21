@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_vj_new_app_0_twohundtable</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-20 08:21:33</sys_created_on>
+        <sys_id>6c92c33a970961108843f73ef053afab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_vj_new_app_0_twohundtable</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_update_name>sys_security_acl_6c92c33a970961108843f73ef053afab</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-20 08:21:33</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="vj new app 123">5440793f97002110daa03df6f053af73</application>
+        <file_path/>
+        <instance_id>e6c5b483db87c1500b9d21c405961936</instance_id>
+        <instance_name>empvkgolla2</instance_name>
+        <name>sys_security_acl_6c92c33a970961108843f73ef053afab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_vj_new_app_0_twohundtable</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>vijaykanth.golla@snc</sys_created_by><sys_created_on>2023-02-20 08:21:33</sys_created_on><sys_id>6c92c33a970961108843f73ef053afab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_vj_new_app_0_twohundtable</sys_name><sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package><sys_policy/><sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope><sys_update_name>sys_security_acl_6c92c33a970961108843f73ef053afab</sys_update_name><sys_updated_by>vijaykanth.golla@snc</sys_updated_by><sys_updated_on>2023-02-20 08:21:33</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1071225456</payload_hash>
+        <record_name>x_snc_vj_new_app_0_twohundtable</record_name>
+        <reverted_from/>
+        <source>1da75006974ded108843f73ef053af4c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-20 08:26:41</sys_created_on>
+        <sys_id>7fb34b7e970961108843f73ef053af49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1866deea4300000001</sys_recorded_at>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-20 08:26:41</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>2492c33a50096110724499c59e27e1ad</update_guid>
+        <update_guid_history>2492c33a50096110724499c59e27e1ad:1071225456,16f2077a220961100fc9423497015ac5:-1114622084,2492c33a50096110724499c59e27e1ad:1071225456</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-20 10:15:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>006b7acafadc4aa49819f21e9a0e7590</sys_id>
+        <sys_metadata>6c92c33a970961108843f73ef053afab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_vj_new_app_0_twohundtable</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_parent display_value="">ac52c7b6970961108843f73ef053af8c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_scope_delete display_value="">3f99a80b26f147f8921efad2ea3e6604</sys_scope_delete>
+        <sys_update_name>sys_security_acl_6c92c33a970961108843f73ef053afab</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_6c92c33a970961108843f73ef053afab">7fb34b7e970961108843f73ef053af49</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-20 10:15:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
