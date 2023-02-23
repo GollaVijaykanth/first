@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-22 13:16:25</sys_created_on>
+        <sys_id>1b39d66397c161108843f73ef053afce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_1b39d66397c161108843f73ef053afce</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-22 13:16:25</sys_updated_on>
+        <translated_value/>
+        <value>admin_overrides</value>
+        <view_config_element display_value="admin_overrides-FieldLabel">1b39d66397c161108843f73ef053afcc</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b39d66397c161108843f73ef053afce"/>
+</record_update>

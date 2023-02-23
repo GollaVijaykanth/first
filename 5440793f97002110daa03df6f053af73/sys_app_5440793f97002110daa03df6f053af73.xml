@@ -29,16 +29,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-04 11:53:03</sys_created_on>
         <sys_id>5440793f97002110daa03df6f053af73</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-02 04:39:31</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-23 05:26:44</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.10</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=5440793f97002110daa03df6f053af73"/>
 </record_update>

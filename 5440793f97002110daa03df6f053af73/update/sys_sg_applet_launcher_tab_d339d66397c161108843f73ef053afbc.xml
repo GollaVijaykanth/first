@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="asdfadfda">9339d66397c161108843f73ef053afbb</applet_launcher>
+        <icon display_value="File">9b39d66397c161108843f73ef053afba</icon>
+        <label>asdfadfda</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-22 13:16:25</sys_created_on>
+        <sys_id>d339d66397c161108843f73ef053afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asdfadfda</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_d339d66397c161108843f73ef053afbc</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-22 13:16:25</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

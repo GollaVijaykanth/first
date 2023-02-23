@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="63391a6397c161108843f73ef053af13 Item Stream">63391a6397c161108843f73ef053af15</item_stream>
+        <segment display_value="sDS Item Stream Segment">6b391a6397c161108843f73ef053af14</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-22 13:16:25</sys_created_on>
+        <sys_id>23391a6397c161108843f73ef053af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_23391a6397c161108843f73ef053af22</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-22 13:16:25</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

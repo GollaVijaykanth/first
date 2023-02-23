@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="sys_security_acl">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-22 13:16:26</sys_created_on>
+        <sys_id>2b391a6397c161108843f73ef053af42</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vj new app 123">5440793f97002110daa03df6f053af73</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_2b391a6397c161108843f73ef053af42</sys_update_name>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-22 13:16:26</sys_updated_on>
+        <table>sys_security_acl</table>
+        <template>active={{sDS active}}^admin_overrides={{sDS admin_overrides}}^advanced={{sDS advanced}}^condition={{sDS condition}}^description={{sDS description}}^name={{sDS name}}^operation={{sDS operation}}^script={{sDS script}}^type={{sDS type}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2b391a6397c161108843f73ef053af42"/>
+</record_update>

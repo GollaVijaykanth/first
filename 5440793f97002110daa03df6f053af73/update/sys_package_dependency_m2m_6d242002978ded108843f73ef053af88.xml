@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">7dff01f3970021108843f73ef053afdd</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>vijaykanth.golla@snc</sys_created_by>
+        <sys_created_on>2023-02-17 12:53:57</sys_created_on>
+        <sys_id>6d242002978ded108843f73ef053af88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="vj new app 123" source="x_snc_vj_new_app_0">5440793f97002110daa03df6f053af73</sys_package>
+        <sys_updated_by>vijaykanth.golla@snc</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:53:57</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
